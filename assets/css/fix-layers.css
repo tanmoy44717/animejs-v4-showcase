@@ -1,0 +1,15 @@
+/* Fix layer visibility and stacking */
+body[data-template=home] .page,
+#docs-info {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+#engine {
+  z-index: -1 !important; /* Move background behind content */
+  pointer-events: none;
+}
+
+#site-header, #site-footer {
+  z-index: 10 !important; /* Ensure header/footer are on top */
+}
