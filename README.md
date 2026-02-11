@@ -19,7 +19,7 @@ This is a customized local deployment of the [Anime.js](https://animejs.com/) we
 - 🎨 **3D Visuals**: Creating particle systems using Three.js
 - 🛡️ **Security**: Exploring penetration testing with Termux tools
 
-📎 [GitHub Profile](https://github.com/tanmoy44717)
+📎 [GitHub Profile](https://github.com/Tcode-Motion)
 
 ---
 
@@ -86,7 +86,7 @@ animejs.com/
 
 ```bash
 # Clone the repository
-git clone https://github.com/tanmoy44717/animejs.com-clone.git
+git clone https://github.com/Tcode-Motion/animejs.com-clone.git
 cd animejs.com-clone
 
 # Start the local server
@@ -133,5 +133,5 @@ This project uses Anime.js which is licensed under the [MIT License](https://git
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/tanmoy44717">Tanmoy</a>
+  Made with ❤️ by <a href="https://github.com/Tcode-Motion">Tanmoy</a>
 </p>
